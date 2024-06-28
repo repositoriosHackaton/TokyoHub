@@ -1,0 +1,22 @@
+# Ignorar el entorno virtual
+Tokyo/
+
+# Ignorar archivos de configuración de VS Code
+.vscode/
+
+# Ignorar archivos temporales del sistema
+*.log
+*.tmp
+*.bak
+
+# Ignorar archivos de Python compilados
+__pycache__/
+*.py[cod]
+
+# Ignorar archivos de paquetes
+*.egg-info/
+
+#ignorar
+
+Clasificacion_imagenes/
+
