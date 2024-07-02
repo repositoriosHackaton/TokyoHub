@@ -18,5 +18,7 @@ __pycache__/
 
 #ignorar
 
-Clasificacion_imagenes/
+test\converter.py
+test_imports.py
+files.py
 
