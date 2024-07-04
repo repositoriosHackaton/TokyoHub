@@ -1,5 +1,5 @@
 # Ignorar el entorno virtual
-Tokyo/
+#Tokyo/
 
 # Ignorar archivos de configuración de VS Code
 .vscode/
