@@ -71,6 +71,7 @@ python chatbot.py
 ├── requirements.txt      # Dependencias del proyecto
 ├── README.md             # Documentación del proyecto
 └── .gitignore            # Archivos y carpetas a ignorar por git
+└── Tokyo                 # venv
 ```
 
 ## Contribuciones
