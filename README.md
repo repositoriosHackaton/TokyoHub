@@ -83,7 +83,7 @@ Este proyecto está bajo la Licencia MIT. Consulta el archivo LICENSE para más 
 
 ## Contacto
 
-Para cualquier consulta, por favor contacta a [tu_correo@example.com](cristiannmendoza18@gmail.com).
+Para cualquier consulta, por favor contacta a [cristiannmendoza18@gmail.com](cristiannmendoza18@gmail.com).
 
 ---
 
