@@ -1,15 +1,11 @@
 import pandas as pd
 import re
 from datetime import datetime
-import os 
 
-# Obtener la ruta absoluta del directorio actual (donde se encuentra main.py)
-current_dir = os.path.dirname(__file__)
-
-# Construir la ruta relativa al archivo CSV
-csv_file_path = os.path.join(current_dir, '..', 'csv', 'predictions.csv')
-
+import os
 # Load the CSV file into a DataFrame
+current_dir = os.path.dirname(__file__)
+csv_file_path = os.path.join(current_dir, '..', 'data/processed/', 'predictions.csv')
 df = pd.read_csv(csv_file_path)
 df['date'] = pd.to_datetime(df['date'])
 

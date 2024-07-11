@@ -21,4 +21,6 @@ __pycache__/
 test\converter.py
 test_imports.py
 files.py
+Clasificacion_imagenes/
+venv/
 
